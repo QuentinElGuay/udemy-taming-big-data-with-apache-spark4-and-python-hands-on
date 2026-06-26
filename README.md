@@ -8,7 +8,7 @@ Acording to [the Spark documentation](https://spark.apache.org/docs/latest/) at 
 
 To run Spark 4 on Codespace like I do, I recommend using the already installed version of Java 21:
 ```bash
-$ sdk default java 21.0.10-ms
+sdk default java 21.0.10-ms
 setting java 21.0.10-ms as the default version for all shells.
 ```
 
